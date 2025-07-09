@@ -1,0 +1,14 @@
+
+
+.foodItemContainer{
+    background-color: #f9f9f9;
+    margin-bottom: 30px;
+    padding: 20px;
+    max-width: 400px;
+    border-bottom: 10px;
+    border-radius: 7px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-right: auto;
+    transition: transform 0.2s ease;
+
+}
